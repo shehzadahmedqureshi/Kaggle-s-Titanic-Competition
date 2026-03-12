@@ -1,4 +1,4 @@
-## Kaggle Titanic Competition
+## Kaggle's Titanic Competition
 
 This repository contains a solution notebook for the classic Kaggle challenge **“Titanic: Machine Learning from Disaster”**, where the goal is to predict which passengers survived the Titanic shipwreck.
 
